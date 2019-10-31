@@ -1,6 +1,5 @@
 #!/usr/bin/python3.6
 import os
-import time
 from multiprocessing import Process
 def doubler(number):
     result = number ** 2000000000000000000000
